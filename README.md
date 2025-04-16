@@ -1,7 +1,5 @@
 # Planejamento-de-Estudos-V4
 
-# Planejamento de Estudos V4  Mestre dos Estudos 🤓
-
 ## 🚀 Sobre o Projeto
 
 Repositório da quarta versão (e versão definitiva!) de um sistema/ferramenta para auxiliar na organização e planejamento dos estudos. O objetivo é fornecer uma forma estruturada e eficiente para estudantes gerenciarem seu tempo, matérias e progresso..
