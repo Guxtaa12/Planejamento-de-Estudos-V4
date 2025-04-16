@@ -37,7 +37,10 @@ Contribuições são bem-vindas! Se você deseja contribuir para o projeto, siga
 5.  Faça o **Push** para a Branch: `git push origin feature/sua-feature`.
 6.  Abra um **Pull Request**.
 
-Por favor, certifique-se de que seu código segue as diretrizes de estilo do projeto e inclui testes, se aplicável.
+## 🛠️ Como Usar
+
+https://projeto-planejamento-de-estudos-v4.vercel.app/
+Faça seu registro e seu login e aproveite
 
 ## 👨‍💻 Autor
 
