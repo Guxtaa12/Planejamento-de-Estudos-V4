@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre o Projeto
 
-Repositório da quarta versão (e versão definitiva!) de um sistema/ferramenta para auxiliar na organização e planejamento dos estudos. O objetivo é fornecer uma forma estruturada e eficiente para estudantes gerenciarem seu tempo, matérias e progresso..
+Repositório da quarta versão de um sistema/ferramenta para auxiliar na organização e planejamento dos estudos. O objetivo é fornecer uma forma estruturada e eficiente para estudantes gerenciarem seu tempo, matérias e progresso..
 
 A versão 4 busca consolidar os aprendizados das versões anteriores, oferecendo designs mais elaborados para o login e registro, e acertamos tambem as anotações que haviam sumido na versão anterior a esta.
 
